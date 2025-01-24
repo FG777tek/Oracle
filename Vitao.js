@@ -1,1 +1,1 @@
-prompt("Fábio Eres Gay, e bem dos Gay mermo!!");
+prompt("Fábio Eres Gay, e bem dos Gay mermo!! E está sendo feita de puta pelo Git");
